@@ -1,4 +1,4 @@
-# Install Swift 2016-08-18 into an Ubuntu 15.10 System
+# Install Swift 3.0.1 into an Ubuntu 15.10 System
 
 <p align="center">
     <a href="http://perfect.org/get-involved.html" target="_blank">
